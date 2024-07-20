@@ -2,26 +2,26 @@
   {
     "id": 1,
     "title": "Demon Slayer",
-    "genre": "Heroes"
+    "genre": "Acción, Fantasía, Oscuro, Shonen"
   },
   {
     "id": 2,
     "title": "Naruto",
-    "genre": "Shonen"
+    "genre": "Acción, Aventura, Shonen, Fantasía"
   },
   {
     "id": 3,
     "title": "Dragon Ball",
-    "genre": "Aventura"
+    "genre": "Aventura, Acción, Superhéroes"
   },
   {
     "id": 4,
     "title": "My Hero Academy",
-    "genre": "Heroes"
+    "genre": "Acción, Superhéroes, Shonen, Drama"
   },
   {
     "id": 5,
     "title": "Attack on Titan",
-    "genre": "Drama"
+    "genre": "Acción, Fantasía, Oscuro, Postapocalíptico"
   }
 ]

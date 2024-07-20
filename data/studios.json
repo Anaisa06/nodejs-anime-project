@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Studio Ghibli",
+    "genres": "Fantasía, Aventura, Drama, Infantil",
+    "famousAnimes": "My Neighbor Totoro, Spirited Away, Princess Mononoke, Howl's Moving Castle"
+  },
+  {
+    "id": 2,
+    "name": "Toei Animation",
+    "genres": "Acción, Aventura, Fantasía, Ciencia Ficción, Infantil",
+    "famousAnimes": "Dragon Ball, One Piece, Sailor Moon, Digimon Adventure"
+  },
+  {
+    "id": 3,
+    "name": "Madhouse",
+    "genres": "Acción, Drama, Thriller, Ciencia Ficción",
+    "famousAnimes": "Death Note, Hunter x Hunter, One Punch Man, Cardcaptor Sakura"
+  },
+  {
+    "id": 4,
+    "name": "Bones",
+    "genres": "Acción, Fantasía, Ciencia Ficción, Drama",
+    "famousAnimes": "Fullmetal Alchemist: Brotherhood, My Hero Academia, Mob Psycho 100, Eureka Seven"
+  },
+  {
+    "id": 5,
+    "name": "Production I.G",
+    "genres": "Acción, Ciencia Ficción, Thriller, Drama",
+    "famousAnimes": "Ghost in the Shell, Attack on Titan, Psycho-Pass, Kuroko's Basketball"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Akira Toriyama",
+    "genres": "Heroes, Shonen, Aventura",
+    "famousAnimes": "Dragon Ball"
+  },
+  {
+    "id": 2,
+    "name": "Hayao Miyazaki",
+    "genres": "Fantasía, Aventura, Drama, Infantil",
+    "famousAnimes": "My Neighbor Totoro, Spirited Away, Princess Mononoke"
+  },
+  {
+    "id": 3,
+    "name": "Makoto Shinkai",
+    "genres": "Drama, Romance, Ciencia Ficción, Fantasía",
+    "famousAnimes": "Your Name, Weathering With You, 5 Centimeters Per Second"
+  },
+  {
+    "id": 4,
+    "name": "Hideaki Anno",
+    "genres": "Ciencia Ficción, Psicología, Acción, Drama",
+    "famousAnimes": "Neon Genesis Evangelion, The End of Evangelion, Rebuild of Evangelion"
+  },
+  {
+    "id": 5,
+    "name": "Satoshi Kon",
+    "genres": "Psicología, Thriller, Ciencia Ficción, Drama",
+    "famousAnimes": "Perfect Blue, Paprika, Tokyo Godfathers, Millennium Actress"
+  }
+]
